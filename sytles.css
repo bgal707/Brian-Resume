@@ -1,0 +1,90 @@
+/* Color Palate
+#394F49 - grayish green
+#79B791 - easter green
+#ABD1B5 - mint
+#EDF4ED - off-whitish gray
+#0A3200 - dark green
+ */
+
+
+/* Global Styles
+-------------------------- */
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+}
+
+h1, h2 {
+    font-family: 'Caveat', cursive;
+    font-weight:400;
+}
+
+h1 {
+    font-size: 80px;
+}
+
+h2 {
+    font-size: 40px;
+    margin-top: 0;
+}
+
+a {
+    color: crimson;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.content-wrap {
+    max-width: 950px;
+    margin: 0 auto;
+    padding: 50px;
+}
+
+/* Header and Footer
+-------------------------- */
+
+header, footer {
+    background: #394F49;
+    color: #ABD1B5;
+}
+
+/* Header */
+
+header h1, header h2 {
+    color: #EDF4ED;
+}
+
+/* Footer */
+
+footer {
+    text-align: center;
+}
+
+.contact-info a {
+    background: white;
+    margin: 10px;
+    padding: 10px;
+    display: inline-block;
+}
+
+/* Work Experience 
+-------------------------- */
+
+
+.work {
+    background: #EDF4ED;
+}
+
+
+/* Education
+-------------------------- */
+
+
+
+
+.education {
+    background: #ABD1B5; 
+}
