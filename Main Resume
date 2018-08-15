@@ -1,0 +1,108 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, intital-scale=1.0">
+    <title>Brian Gallagher | Resume</title>
+    <link href="https://fonts.googleapis.com/css?family=Caveat|Open+Sans:400,700" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css/resume.css">
+</head>
+<body>
+<header>
+    <div class="content-wrap">
+    <img src="images/TreyHeadshot.jpg" alt="TreyHeadshot" height="236" width="240">
+    <h1>Brian Gallagher</h1>
+    <h2>Exhibitor Support Specialist</h2>
+        <p><strong>Profile Summary</strong><br></p>
+        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi.</p>
+    </div>
+    </header>
+<main>
+    <section class="work">
+    <div class="content-wrap">
+    <h2>Work Experience</h2>
+        
+    <!-- Current Work Experience --> 
+        
+        <h3>Exhibitor Support Specialist</h3>
+            <p>LRP Publications</p>
+            <p>December 2016 - Present</p>
+            <p><strong>Summary</strong></p>
+            <ul>
+                <li>Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi.</li>
+                <li>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</li>
+                <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.</li>
+            </ul>
+        
+            <p>Optional list:</p>
+            <ul>
+                <li>Created...</li>
+                <li>Lead...</li>
+                <li>Responsible for</li>
+            </ul>
+    
+    <!-- Previous Work Experience -->
+    
+        <h3>Logistics Manager</h3>
+            <p>Expo Logic</p>
+            <p>***FIND OUT DATES***</p>
+            <p><strong>Summary</strong></p>
+            <ul>
+                <li>Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi.</li>
+                <li>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</li>
+                <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.</li>
+            </ul>
+        
+            <p>Optional list:</p>
+                <ul>
+                    <li>Created...</li>
+                    <li>Lead...</li>
+                    <li>Responsible for</li>
+                </ul>
+        
+        <!-- Previous Work Experience -->
+    
+        <h3>English Teacher</h3>
+            <p>MediaKids Academy</p>
+            <p>***FIND OUT DATES***</p>
+            <p><strong>Summary</strong></p>
+            <ul>
+                <li>Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi.</li>
+                <li>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</li>
+                <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.</li>
+                                                             </ul>
+        
+            <p>Optional list:</p>
+                <ul>
+                    <li>Created...</li>
+                    <li>Lead...</li>
+                    <li>Responsible for</li>
+                </ul>
+    </div>
+    </section>
+    <section class="education">
+    <div class="content-wrap">
+    <h2>Education</h2>
+        <h3>Saint Joseph's University</h3>
+            <p>Food Marketing</p>
+            <p>Summary</p>
+        
+        <h3>Bishop McDevitt High School</h3>
+            <p>High School Diploma</p>
+            <p>Summary</p>
+    </div>
+    </section>
+</main>
+<footer>
+    <div class="content-wrap">
+    <h2>Let's Keep in Touch!</h2>
+    <!-- Social media and contact links. Add or remove any networks. -->
+        <div class="contact-info">
+        <a href="mailto:bgal707@gmail.com">BGAL707@gmail.com</a>
+        <a href="http://yourwebsite.com">Brian's Website</a>
+        <a href="#" target="_blank">LinkedIn</a>
+        </div>
+    </div>
+</footer>
+</body>
+</html>
